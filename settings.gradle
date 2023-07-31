@@ -1,0 +1,6 @@
+rootProject.name = 'jvm-libs'
+
+include ':libs:auto-validator'
+include ':libs:auto-validator-gradle-plugin'
+include ':libs:ddd4j'
+include ':libs:general-libs'
